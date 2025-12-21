@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "触れていたいだけ",
+  "base_artist": "MIMI",
+  "createdAt": "2025-12-21T13:52:34.496908Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "触れていたいだけ (feat. 月)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_触れていたいだけ_(feat._月)_MIMI.txt"
+    }
+  ]
+}
